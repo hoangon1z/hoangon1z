@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangon1z" alt="hoangon1z" /></a> </p>
 
-- 🔭 I’m currently working on JS,PYTHON,NODEJS **LOTTERY BETTING**
+- 🔭 I’m currently working on JS,PYTHON,NODEJS 
 
 - 🌱 Currently I am studying IT at Greenwich University **PYTHON**
 
