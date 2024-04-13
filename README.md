@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm HoangOn1Z</h1>
-<h3 align="center">Hello, I'm Tran Hoang. Student at Greenwich University, Da Nang City. I'm working as a freelancer and if anything is too difficult, I'll skip it :))</h3>
+<h3 align="center">Hello</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangon1z" alt="hoangon1z" /></a> </p>
 
