@@ -5,12 +5,6 @@
 
 - 🔭 I’m currently working on JS,PYTHON,NODEJS 
 
-- 🌱 Currently I am studying IT at Greenwich University **PYTHON**
-
-- 👨‍💻 I’m working on many projects about Facebook API **Auto Post Fanpage With Selenium**
-
-- 🤝 I’m a job about Facebook tool **Phishing Facebook, SCAN ACCOUNT**
-
 - 📄 Know about my experiences [UPDATE!](UPDATE!)
 
 - 💬 Ask me about **Js, Python, Nodejs,v.v.v**
