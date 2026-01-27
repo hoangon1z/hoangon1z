@@ -140,9 +140,6 @@ const hoangTran = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 **Thanks for stopping by!** ![Visitor Count](https://profile-counter.glitch.me/hoangon1z/count.svg)
 
 </div>
