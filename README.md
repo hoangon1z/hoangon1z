@@ -140,6 +140,8 @@ const hoangTran = {
 
 <div align="center">
 
-**Thanks for stopping by!** ![Visitor Count](https://profile-counter.glitch.me/hoangon1z/count.svg)
+**Thanks for stopping by!** 
+
+![Visitor Count](https://profile-counter.glitch.me/hoangon1z/count.svg)
 
 </div>
