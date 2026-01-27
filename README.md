@@ -1,4 +1,4 @@
-# ⚡ Senior AI-Driven Fullstack Architect | Elite Automation ⚡
+#  Senior AI-Driven Fullstack Architect | Elite Automation 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HOANG%20TRAN&fontSize=90&animation=fadeIn" />
