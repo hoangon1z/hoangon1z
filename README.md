@@ -1,50 +1,63 @@
-# Hi there, I'm Hoang Tran 👋 🇻🇳
+# ⚡ Senior AI-Driven Fullstack Architect | Elite Automation ⚡
 
-### **Senior AI-Driven Fullstack Developer | Automation Expert**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HOANG%20TRAN&fontSize=90&animation=fadeIn" />
+</p>
 
-I am a results-oriented developer from **Da Nang, Vietnam**, specializing in building high-performance systems and intelligent automation. With over 3 years of hands-on experience, I focus on delivering scalable software that drives real business value.
-
----
-
-### 🚀 **What Sets Me Apart?**
-
-In the era of AI, I don't just write code—I engineer solutions. By integrating **AI into 80% of my development workflow**, I achieve:
-* **Rapid Prototyping:** Turning ideas into MVP in record time.
-* **Precision & Stability:** Building "Placid" (stable) systems with AI-assisted optimization.
-* **Hybrid Power:** Mastering modern Web stacks while leveraging Python for complex automation.
+### 🎖️ **THE NEXT-GEN ELITE DEVELOPER**
+> *"I don't just code; I engineer intelligence. Leveraging AI to break the limits of traditional development."*
 
 ---
 
-### 🛠 **Tech Stack**
-
-* **Languages:** JavaScript (Node.js, Reactjs), Python (Automation & Scraping).
-* **Web Technologies:** HTML5, CSS3, Tailwind CSS, TypeScript.
-* **AI & Systems:** Prompt Engineering, LLMs Integration, Performance Tuning.
-* **C# & C++:** Utilized for specialized system tools and performance-critical modules.
+### 🚀 **CORE SUPREMACY**
+- **AI-Augmented Mastery:** 80% Workflow Optimization | GPT-4 & Claude 3.5 Sonnet Integration.
+- **Speed & Scale:** 3x Faster Delivery | Professional Product Mindset.
+- **Language Proficiency:** **English Aptis B2** Certified | Ready for Global Challenges.
 
 ---
 
-### 🎓 **Education & Language**
+### 💻 **TECH STACK DOMINANCE**
 
-* **University of Greenwich (Danang Campus):** Bachelor of Information Technology (IT).
-* **English:** Aptis ESOL International Certificate - **B2 Level** (Professional Working Proficiency).
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Frontend** | `React.js` `Javascript` `HTML5` `CSS3` `TailwindCSS` |
+| **Backend** | `Node.js` `Python (FastAPI/Django)` |
+| **Automation** | `Python Scripts` `Web Scraping` `Selenium/Playwright` |
+| **AI/ML** | `Prompt Engineering` `LLMs Integration` `Agentic Workflows` |
+| **Low-Level** | `C++` `C#` (Performance Optimization via AI-Assistance) |
 
 ---
 
-### 📊 **GitHub Stats**
+### 📈 **ELITE PERFORMANCE METRICS**
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hoangon1z&show_icons=true&theme=tokyonight" alt="Hoang's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangon1z&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=hoangon1z&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangon1z&layout=compact&theme=radical&border_radius=10" height="195px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangon1z&theme=radical" />
 </p>
 
 ---
 
-### 📫 **Connect with Me**
-
-* **Email:** [rxgnoah1510@gmail.com](mailto:rxgnoah1510@gmail.com)
-* **Location:** Da Nang, Viet Nam
-* **Projects:** Check out my pinned repositories below for real-world automation and web solutions.
+### 🏗️ **FEATURED ARCHITECTURES**
+- 🤖 **[Advanced-Python-Automation]:** High-scale scraping & data processing engine.
+- 🌐 **[AI-SaaS-Fullstack]:** Modern web ecosystem with integrated intelligence.
+- ⚡ **[System-Optimizer]:** Core-level performance tools built with C++/C#.
 
 ---
-*"The best way to predict the future is to automate it."*
+
+### 📬 **GET IN TOUCH (VIP ONLY)**
+- 📧 **Email:** [rxgnoah1510@gmail.com](mailto:rxgnoah1510@gmail.com)
+- 📍 **Location:** Da Nang City, Vietnam
+- 🎓 **Education:** University of Greenwich (Danang Campus)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangon1z&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+---
+<p align="right">
+  <i>"Code is poetry, AI is the ink."</i>
+</p>
