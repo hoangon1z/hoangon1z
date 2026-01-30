@@ -63,7 +63,7 @@ const hoangTran = {
 ### 🤖 AI & Automation
 ![Orbit](https://img.shields.io/badge/Orbit-412991?style=flat&logo=openai&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-412991?style=flat&logo=openai&logoColor=white)
-![Rovodev CLI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Rovodev CLI](https://img.shields.io/badge/Rovodev_CLI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-412991?style=flat&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
